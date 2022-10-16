@@ -1,0 +1,35 @@
+#root{
+    background: rgba(25, 21, 43, 0.801);
+    color:white;
+}
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+    background: rgba(25, 21, 43, 0.801);
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+
+
+
+}
+.NavBar ol > li{
+    list-style: none;
+}
+.NavBar ul > li{
+    list-style: none;
+}
+.Main > h1{
+    font-size: 34px;
+    text-align: center;
+
+}
+.Main > h2{
+    font-size: 24px;
+
+}
+.Main ul >li{
+    font-size: 18px;
+}
+
